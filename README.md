@@ -15,6 +15,6 @@ Main Repo Link
 ----------
 
 
-https://github.com/ahmedfarag9/uni-search
+https://github.com/ahmedfarag9/UniSearch-Egypt
 
 
